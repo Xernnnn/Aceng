@@ -1,6 +1,6 @@
 # Aceng
 
-DOMISILI MANA?
-jkt
-JAUH
-AKU JATIM
+# DOMISILI MANA?
+# jkt
+# JAUH
+# AKU JATIM
